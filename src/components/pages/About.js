@@ -2,13 +2,13 @@ import React from 'react';
 
 export default function About() {
     return (
-        <article class="green-background">
-            <div class="content" id="about">
-                <h2 class="article-header">About</h2>
-                <div class="about-content">
+        <article className="green-background">
+            <div className="content" id="about">
+                <h2 className="article-header">About</h2>
+                <div className="about-content">
                     <picture>
-                        <source srcset="./assets/images/profile-full.png" media="(min-width:601px)"></source>
-                            <img id="profile-image" src="./assets/images/profile-mobile.png" alt="Large House"
+                        <source srcSet="./assets/images/profile-full.png" media="(min-width:601px)"></source>
+                            <img id="profile-image" src="./assets/images/profile-mobile.png" alt="Profile"
                                 align="right" />
                     </picture>
                     <p>

@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer class="white-background">
-        <div class="content" id="contact">
-            <h2 class="article-header">Contact</h2>
-            <div class="footer-content">
+    <footer className="white-background">
+        <div className="content" id="contact">
+            <h2 className="article-header">Contact</h2>
+            <div className="footer-content">
                 <p>720.234.3597</p>
                 <a href="mailto: chrisleavengood@gmail.com">chrisleavengood@gmail.com</a>
                 <a href="https://www.github.com/cleave13" target="_blank" rel="noreferrer">Github</a>
