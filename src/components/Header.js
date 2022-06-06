@@ -1,11 +1,8 @@
 import React from 'react';
-import Navigation from './Navigation';
 
 export default function Header({ currentPage, handlePageChange }) {
   return (
     <header>
-      {/* Pass the currentPage from state and the function to update it */}
-      <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
       <section className="hero-image">
         <div className="hero-content">
           <h1 className="hero-title hero-item">Chris Leavengood</h1>

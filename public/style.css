@@ -97,6 +97,28 @@ footer a {
     color: var(--color-dark);
 }
 
+input[type=text],
+select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email],
+select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
 /* Sets a green background color and white text color for all elements assigned to this class */
 .green-background {
     width: 100%;
@@ -223,7 +245,7 @@ footer a {
     position: relative;
     display: flex;
     width: 40%;
-    height:200px;
+    height: 200px;
     left: 55%;
     top: 35%;
     flex-wrap: wrap;

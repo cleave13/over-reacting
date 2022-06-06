@@ -7,7 +7,7 @@ export default function Navigation({ currentPage, handlePageChange }) {
       <ul className="nav-menu">
         <li className="nav-item">
           <a
-            href="#about"
+            href="#about1"
             onClick={() => handlePageChange('ABOUT')}
             // Check to see if the currentPage is `ABOUT`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={currentPage === 'ABOUT' ? 'nav-link-active' : 'nav-link'}
@@ -17,7 +17,7 @@ export default function Navigation({ currentPage, handlePageChange }) {
         </li>
         <li className="nav-item">
           <a
-            href="#portfolio"
+            href="#portfolio1"
             onClick={() => handlePageChange('PORTFOLIO')}
             // Check to see if the currentPage is `PORTFOLIO`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={currentPage === 'PORTFOLIO' ? 'nav-link-active' : 'nav-link'}
@@ -27,7 +27,7 @@ export default function Navigation({ currentPage, handlePageChange }) {
         </li>
         <li className="nav-item">
           <a
-            href="#contact"
+            href="#contact1"
             onClick={() => handlePageChange('CONTACT')}
             // Check to see if the currentPage is `CONTACT`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={currentPage === 'CONTACT' ? 'nav-link-active' : 'nav-link'}
@@ -37,7 +37,7 @@ export default function Navigation({ currentPage, handlePageChange }) {
         </li>
         <li className="nav-item">
           <a
-            href="#resume"
+            href="#resume1"
             onClick={() => handlePageChange('RESUME')}
             // Check to see if the currentPage is `RESUME`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={currentPage === 'RESUME' ? 'nav-link-active' : 'nav-link'}
