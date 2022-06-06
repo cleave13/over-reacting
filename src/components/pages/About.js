@@ -18,7 +18,7 @@ export default function About() {
                         I started my career at some of the most reknowned hospitality organizations in the world where I learned to deliver exceptional experiences. Today, I pair my high-touch background with my strong technical skills to deliver incredible results for all of my clients.
                     </p>
                     <p>
-                        Over the past six years, I have had the opportunity to work with leading brands across the a wide range of industries including real-estate, hospitality, technology, healthcare, and event services.
+                        Over the past six years, I have had the opportunity to work with leading in real-estate, hospitality, technology, healthcare, and event services.
                     </p>
                     <p>
                         I take a human approach to technology implementations and would love to work with you on your next project!
