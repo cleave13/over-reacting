@@ -35,7 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Start this application using the `npm start` command if running locally. Once you are in the browser, you can use the navigation links at the top of the page to dynamically render the different elements of the page.
 
-![portfolio](../over-reacting/public/assets/images/portfolio.png)
+![portfolio](./portfolio.png)
 
 The only page that supports any direct user input is the contact form on the contact tab.
 
