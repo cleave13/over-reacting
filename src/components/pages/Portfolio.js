@@ -20,7 +20,7 @@ export default function Portfolio() {
                 <img src="./assets/images/stockdemic-mobile-compressed.png" alt="Stockdemic application" />
               </picture>
             </a>
-            <button class="src-button" onclick={() => openInNewTab('https://github.com/cleave13/stockdemic-project-1')}>View Source Code</button>
+            <a class="src-link" href="https://github.com/cleave13/stockdemic-project-1/" target="_blank" rel="noreferrer">View Source Code</a>
           </div>
 
           <div class="card half-width-card">
@@ -32,7 +32,7 @@ export default function Portfolio() {
                   alt="Child swimming" />
               </picture>
             </a>
-            <button class="src-button" onclick=" window.open('https://github.com/cleave13/code-quiz','_blank')">View Source Code</button>
+            <a class="src-link" href="https://github.com/cleave13/code-quiz" target="_blank" rel="noreferrer">View Source Code</a>
           </div>
 
           <div class="card half-width-card">
@@ -44,7 +44,7 @@ export default function Portfolio() {
                   alt="Resume writing" />
               </picture>
             </a>
-            <button class="src-button" onclick=" window.open('https://github.com/cleave13/weather-app','_blank')">View Source Code</button>
+            <a class="src-link" href="https://github.com/cleave13/weather-app" target="_blank" rel="noreferrer">View Source Code</a>
           </div>
 
           <div class="card half-width-card">
@@ -56,7 +56,7 @@ export default function Portfolio() {
                   alt="Books with children's blocks" />
               </picture>
             </a>
-            <button class="src-button">View Source Code</button>
+            <a class="src-link" href="https://github.com/cleave13/stockdemic-project-1/" target="_blank" rel="noreferrer">View Source Code</a>
           </div>
 
           <div class="card half-width-card">
@@ -68,7 +68,7 @@ export default function Portfolio() {
                   alt="Sliced and whole lemons" />
               </picture>
             </a>
-            <button class="src-button">View Source Code</button>
+            <a class="src-link" href="https://github.com/cleave13/stockdemic-project-1/" target="_blank" rel="noreferrer">View Source Code</a>
           </div>
         </div>
       </div>

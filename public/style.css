@@ -336,7 +336,7 @@ select {
 }
 
 /* Styles the button inside of the cards */
-.card button {
+.card button, .src-link {
     position: relative;
     font-size: 100%;
     bottom: 6%;
