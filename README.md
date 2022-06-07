@@ -19,7 +19,7 @@ This application uses a React frontend to create all of the pages and components
 
 ## Installation
 
-To install this application locally, clone the repository and run `npm i` to download all of the package dependencies. If you just want to see the application in action, visit GITHUB PAGES LINK.
+To install this application locally, clone the repository and run `npm i` to download all of the package dependencies. If you just want to see the application in action, visit [github-pages](https://cleave13.github.io/over-reacting/).
 
 ### `npm run build`
 
