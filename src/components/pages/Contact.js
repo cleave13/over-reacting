@@ -33,6 +33,7 @@ export default function Form() {
 
   return (
     <div>
+      <h2 class="form-title">Contact Form</h2>
       <form className="form">
         <input
           value={name}

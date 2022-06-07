@@ -97,6 +97,18 @@ footer a {
     color: var(--color-dark);
 }
 
+form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 100%;
+    margin: 0;
+}
+
+input {
+    margin: 10%;
+}
+
 input[type=text],
 select {
     width: 30%;
@@ -278,6 +290,11 @@ select {
     padding: 1.25em 0 1em 0;
 }
 
+.form-title {
+    margin: 30px;
+    font-size: 40px;
+}
+
 /* Makes the cards in the portfolio section a flex box that flows vertically down the page */
 .card {
     position: relative;
@@ -373,6 +390,16 @@ select {
     height: 150px;
     width: 150px;
     border: 1px solid var(--border-color);
+}
+
+#resume {
+    margin: 30px;
+}
+
+#resume-download {
+    text-align: center;
+    font-size: 40px;
+    margin: 30px;
 }
 
 /* || MEDIA QUERIES */
