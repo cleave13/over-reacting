@@ -3,7 +3,7 @@ import React from 'react';
 export default function Project(props) {
     return (
         <div className="portfolio-cards">
-            <div className={props.classes}>
+            <div className="card full-width-card">
                 <header>Stockdemic Analysis Tool</header>
                 <a href={props.liveUrl} target="_blank" rel="noreferrer">
                     <picture>

@@ -32,14 +32,6 @@ export default function Portfolio() {
 
           <Project 
           classes={'card half-width-card'} 
-          liveUrl={'https://cleave13.github.io/code-quiz/'} 
-          imgPath={'./assets/images/code-quiz-mobile-compressed.png'}
-          alt={'Code quiz'} 
-          srcUrl={'https://github.com/cleave13/code-quiz'}
-          />
-
-          <Project 
-          classes={'card half-width-card'} 
           liveUrl={'https://cleave13.github.io/weather-app/'} 
           imgPath={'./assets/images/weather-mobile-compressed.png'}
           alt={'Weather app'} 
