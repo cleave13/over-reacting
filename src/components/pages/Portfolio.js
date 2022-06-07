@@ -3,10 +3,6 @@ import Project from '../Project';
 
 export default function Portfolio() {
 
-  const openInNewTab = url => {
-    window.open(url, '_blank', 'noopener,noreferrer');
-  };
-
   return (
 
     <article class="white-background">
