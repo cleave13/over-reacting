@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cleave13/over-reacting/static/css/main.073c9b0a.css",
-    "main.js": "/cleave13/over-reacting/static/js/main.6f9c171a.js",
-    "index.html": "/cleave13/over-reacting/index.html",
-    "main.073c9b0a.css.map": "/cleave13/over-reacting/static/css/main.073c9b0a.css.map",
-    "main.6f9c171a.js.map": "/cleave13/over-reacting/static/js/main.6f9c171a.js.map"
+    "main.css": "/over-reacting/static/css/main.073c9b0a.css",
+    "main.js": "/over-reacting/static/js/main.6f9c171a.js",
+    "index.html": "/over-reacting/index.html",
+    "main.073c9b0a.css.map": "/over-reacting/static/css/main.073c9b0a.css.map",
+    "main.6f9c171a.js.map": "/over-reacting/static/js/main.6f9c171a.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
